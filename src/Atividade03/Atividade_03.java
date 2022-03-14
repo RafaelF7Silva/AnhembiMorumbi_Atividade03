@@ -7,7 +7,7 @@ public class Atividade_03 {
     public static void main(String[] args) {
         ArrayList<Integer> lista = new ArrayList<>(5);
 
-        System.out.println("Inserindo os numeros 1,2,3,4,5 na lista :");
+        System.out.println("Inserindo os números 1,2,3,4,5 na lista :");
 
         lista.add(1);
 
@@ -23,7 +23,7 @@ public class Atividade_03 {
 
         System.out.println("--------------------------------------------");
 
-        System.out.println("Removendo os dados da celula inicial da lista : ");
+        System.out.println("Removendo os dados da célula inicial da lista : ");
 
         while(!lista.isEmpty()) {
 
@@ -101,7 +101,7 @@ public class Atividade_03 {
 
         System.out.println("--------------------------------------------");
 
-        System.out.println("Adicionando os numeros 6,7,8,9,10 na lista");
+        System.out.println("Adicionando os números 6,7,8,9,10 na lista");
 
         lista.add(6);
 
@@ -117,7 +117,7 @@ public class Atividade_03 {
 
         System.out.println("--------------------------------------------");
 
-        System.out.println("Removendo os dados das celulas iniciais da lista.");
+        System.out.println("Removendo os dados das células iniciais da lista.");
 
         while(!lista.isEmpty()) {
 
